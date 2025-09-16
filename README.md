@@ -1,8 +1,19 @@
+# DeepThought Backend Development
+
+***Google Drive Links:***
+
+**📂 Event API Documentation:** [ View Documentation](https://docs.google.com/document/d/1BetiS7vTULRAf4puZciUTT54aacv_sgc/edit?usp=drive_link&ouid=105424366333614809522&rtpof=true&sd=true)
+
+**📂 Nudge API Documentation:** [View Documentation](https://docs.google.com/document/d/1uZMEn8IG_-P4NDVjBIZWL8M_Bam7LGSD/edit?usp=drive_link&ouid=105424366333614809522&rtpof=true&sd=true)
+
+
 # 📌 Events API Documentation
 
 ## 📡 Events API Endpoints
 
 **Base URL=** `/api/v3/app `
+
+***Note:*** Click on the Routes to expand and know the details, example and response.
 <details>
 <summary>1️⃣ Get All Events (with or without query parameters)</summary>
 
